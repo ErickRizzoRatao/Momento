@@ -1,0 +1,412 @@
+[
+  {
+    "nome": "Erick",
+    "sobrenome": "Rizzo",
+    "data_nascimento": "2008-03-08",
+    "data_contratacao": "2026-05-04",
+    "salario": 8000,
+    "departamento": "Tecnologia",
+    "cargo": "Desenvolvedor",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Carlos",
+    "sobrenome": "Mendes",
+    "data_nascimento": "1975-03-15",
+    "data_contratacao": "2015-06-01",
+    "salario": 25000,
+    "departamento": "Diretoria",
+    "cargo": "CEO",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Fernanda",
+    "sobrenome": "Costa",
+    "data_nascimento": "1978-07-22",
+    "data_contratacao": "2016-03-10",
+    "salario": 20000,
+    "departamento": "Tecnologia",
+    "cargo": "CTO",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Roberto",
+    "sobrenome": "Alves",
+    "data_nascimento": "1980-11-05",
+    "data_contratacao": "2016-08-15",
+    "salario": 18000,
+    "departamento": "Financeiro",
+    "cargo": "CFO",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Juliana",
+    "sobrenome": "Rocha",
+    "data_nascimento": "1982-04-18",
+    "data_contratacao": "2017-01-20",
+    "salario": 16000,
+    "departamento": "Produto",
+    "cargo": "CPO",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Thiago",
+    "sobrenome": "Ferreira",
+    "data_nascimento": "1983-09-30",
+    "data_contratacao": "2017-05-12",
+    "salario": 14000,
+    "departamento": "Tecnologia",
+    "cargo": "Arquiteto de Software",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Patricia",
+    "sobrenome": "Lima",
+    "data_nascimento": "1985-02-14",
+    "data_contratacao": "2018-02-01",
+    "salario": 12000,
+    "departamento": "Produto",
+    "cargo": "Product Manager",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Eduardo",
+    "sobrenome": "Souza",
+    "data_nascimento": "1984-06-25",
+    "data_contratacao": "2018-07-09",
+    "salario": 11000,
+    "departamento": "Tecnologia",
+    "cargo": "Tech Lead",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Mariana",
+    "sobrenome": "Oliveira",
+    "data_nascimento": "1987-12-03",
+    "data_contratacao": "2019-03-15",
+    "salario": 10000,
+    "departamento": "Design",
+    "cargo": "UX/UI Designer Sênior",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Lucas",
+    "sobrenome": "Martins",
+    "data_nascimento": "1988-08-17",
+    "data_contratacao": "2019-06-01",
+    "salario": 9500,
+    "departamento": "Tecnologia",
+    "cargo": "Desenvolvedor Sênior",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Camila",
+    "sobrenome": "Barbosa",
+    "data_nascimento": "1989-05-09",
+    "data_contratacao": "2019-09-20",
+    "salario": 9000,
+    "departamento": "Dados",
+    "cargo": "Data Engineer",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Felipe",
+    "sobrenome": "Nascimento",
+    "data_nascimento": "1990-10-21",
+    "data_contratacao": "2020-02-10",
+    "salario": 8500,
+    "departamento": "Infraestrutura",
+    "cargo": "DevOps Engineer",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Ana",
+    "sobrenome": "Silva",
+    "data_nascimento": "1990-01-01",
+    "data_contratacao": "2020-01-01",
+    "salario": 5000,
+    "departamento": "Tecnologia",
+    "cargo": "Desenvolvedora",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Renata",
+    "sobrenome": "Gomes",
+    "data_nascimento": "1991-03-28",
+    "data_contratacao": "2020-05-18",
+    "salario": 8000,
+    "departamento": "Segurança",
+    "cargo": "Analista de Segurança da Informação",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Diego",
+    "sobrenome": "Carvalho",
+    "data_nascimento": "1992-07-14",
+    "data_contratacao": "2020-08-03",
+    "salario": 7500,
+    "departamento": "Dados",
+    "cargo": "Data Analyst",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Larissa",
+    "sobrenome": "Teixeira",
+    "data_nascimento": "1993-11-19",
+    "data_contratacao": "2021-01-11",
+    "salario": 7000,
+    "departamento": "RH",
+    "cargo": "Analista de RH",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Bruno",
+    "sobrenome": "Araújo",
+    "data_nascimento": "1994-04-06",
+    "data_contratacao": "2021-04-26",
+    "salario": 6500,
+    "departamento": "Tecnologia",
+    "cargo": "Desenvolvedor Pleno",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Isabela",
+    "sobrenome": "Pereira",
+    "data_nascimento": "1995-08-23",
+    "data_contratacao": "2021-09-07",
+    "salario": 6000,
+    "departamento": "Suporte",
+    "cargo": "Analista de Suporte TI",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Gustavo",
+    "sobrenome": "Ribeiro",
+    "data_nascimento": "1997-01-30",
+    "data_contratacao": "2022-03-14",
+    "salario": 5500,
+    "departamento": "Tecnologia",
+    "cargo": "Desenvolvedor Júnior",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Natália",
+    "sobrenome": "Correia",
+    "data_nascimento": "1998-06-12",
+    "data_contratacao": "2022-08-22",
+    "salario": 4500,
+    "departamento": "Design",
+    "cargo": "UX/UI Designer Júnior",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Matheus",
+    "sobrenome": "Santos",
+    "data_nascimento": "2000-09-04",
+    "data_contratacao": "2023-02-06",
+    "salario": 3500,
+    "departamento": "Tecnologia",
+    "cargo": "Estagiário de Desenvolvimento",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Sebastião",
+    "sobrenome": "Ferreira",
+    "data_nascimento": "1970-05-12",
+    "data_contratacao": "2015-03-01",
+    "salario": 2200,
+    "departamento": "Limpeza e Conservação",
+    "cargo": "Supervisor de Limpeza",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Maria",
+    "sobrenome": "Conceição",
+    "data_nascimento": "1978-08-24",
+    "data_contratacao": "2018-01-15",
+    "salario": 1800,
+    "departamento": "Limpeza e Conservação",
+    "cargo": "Auxiliar de Limpeza",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Josefa",
+    "sobrenome": "Almeida",
+    "data_nascimento": "1982-03-07",
+    "data_contratacao": "2019-06-10",
+    "salario": 1800,
+    "departamento": "Limpeza e Conservação",
+    "cargo": "Auxiliar de Limpeza",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Antônio",
+    "sobrenome": "Ramos",
+    "data_nascimento": "1975-11-30",
+    "data_contratacao": "2017-04-20",
+    "salario": 1900,
+    "departamento": "Limpeza e Conservação",
+    "cargo": "Zelador",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Claudia",
+    "sobrenome": "Moreira",
+    "data_nascimento": "1985-06-18",
+    "data_contratacao": "2020-09-01",
+    "salario": 2800,
+    "departamento": "Recepção",
+    "cargo": "Recepcionista",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Anderson",
+    "sobrenome": "Pinto",
+    "data_nascimento": "1988-02-14",
+    "data_contratacao": "2019-11-05",
+    "salario": 2600,
+    "departamento": "Recepção",
+    "cargo": "Assistente Administrativo",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Jorge",
+    "sobrenome": "Cavalcante",
+    "data_nascimento": "1972-09-09",
+    "data_contratacao": "2016-07-12",
+    "salario": 3200,
+    "departamento": "Segurança Patrimonial",
+    "cargo": "Supervisor de Segurança",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Marcos",
+    "sobrenome": "Vieira",
+    "data_nascimento": "1980-04-25",
+    "data_contratacao": "2018-03-18",
+    "salario": 2500,
+    "departamento": "Segurança Patrimonial",
+    "cargo": "Vigilante",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Paulo",
+    "sobrenome": "Figueiredo",
+    "data_nascimento": "1983-12-01",
+    "data_contratacao": "2019-08-22",
+    "salario": 2500,
+    "departamento": "Segurança Patrimonial",
+    "cargo": "Vigilante",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Rosana",
+    "sobrenome": "Duarte",
+    "data_nascimento": "1979-07-16",
+    "data_contratacao": "2017-10-03",
+    "salario": 3000,
+    "departamento": "Cozinha e Refeitório",
+    "cargo": "Cozinheira Chefe",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Valdete",
+    "sobrenome": "Cruz",
+    "data_nascimento": "1984-01-20",
+    "data_contratacao": "2020-02-17",
+    "salario": 2200,
+    "departamento": "Cozinha e Refeitório",
+    "cargo": "Auxiliar de Cozinha",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Henrique",
+    "sobrenome": "Bastos",
+    "data_nascimento": "1981-10-08",
+    "data_contratacao": "2018-06-25",
+    "salario": 3800,
+    "departamento": "Manutenção",
+    "cargo": "Técnico de Manutenção Predial",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Edson",
+    "sobrenome": "Machado",
+    "data_nascimento": "1977-05-03",
+    "data_contratacao": "2017-09-14",
+    "salario": 3500,
+    "departamento": "Manutenção",
+    "cargo": "Eletricista",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Sônia",
+    "sobrenome": "Azevedo",
+    "data_nascimento": "1986-03-29",
+    "data_contratacao": "2021-01-08",
+    "salario": 4200,
+    "departamento": "Financeiro",
+    "cargo": "Assistente Financeiro",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Tânia",
+    "sobrenome": "Monteiro",
+    "data_nascimento": "1990-08-11",
+    "data_contratacao": "2021-05-19",
+    "salario": 4500,
+    "departamento": "Jurídico",
+    "cargo": "Assistente Jurídico",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Rafael",
+    "sobrenome": "Cardoso",
+    "data_nascimento": "1976-06-27",
+    "data_contratacao": "2016-11-30",
+    "salario": 5500,
+    "departamento": "Logística",
+    "cargo": "Coordenador de Logística",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Cleide",
+    "sobrenome": "Nogueira",
+    "data_nascimento": "1992-12-15",
+    "data_contratacao": "2022-04-04",
+    "salario": 3200,
+    "departamento": "Logística",
+    "cargo": "Auxiliar de Almoxarifado",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Wanderson",
+    "sobrenome": "Lopes",
+    "data_nascimento": "1985-09-22",
+    "data_contratacao": "2019-07-16",
+    "salario": 3000,
+    "departamento": "Logística",
+    "cargo": "Motoboy / Mensageiro",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "Elaine",
+    "sobrenome": "Batista",
+    "data_nascimento": "1988-04-05",
+    "data_contratacao": "2020-10-27",
+    "salario": 4800,
+    "departamento": "Marketing",
+    "cargo": "Analista de Marketing",
+    "escritorio": "São Paulo"
+  },
+  {
+    "nome": "César",
+    "sobrenome": "Tavares",
+    "data_nascimento": "1973-01-17",
+    "data_contratacao": "2015-12-08",
+    "salario": 6500,
+    "departamento": "Compras",
+    "cargo": "Gerente de Compras",
+    "escritorio": "São Paulo"
+  }
+]
