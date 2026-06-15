@@ -1,0 +1,119 @@
+[
+  {
+    "_id": {
+      "$oid": "69f8b8a771dfdd5a2058ec69"
+    },
+    "nome": "Erick",
+    "sobrenome": "Rizzo",
+    "data_nascimento": "2008-03-08",
+    "data_contratacao": "2026-05-04",
+    "salario": 8000,
+    "departamento": "Tecnologia",
+    "cargo": "Desenvolvedor",
+    "escritorio": "São Paulo"
+  },
+  {
+    "_id": {
+      "$oid": "69f8b8a771dfdd5a2058ec6b"
+    },
+    "nome": "Fernanda",
+    "sobrenome": "Costa",
+    "data_nascimento": "1978-07-22",
+    "data_contratacao": "2016-03-10",
+    "salario": 20000,
+    "departamento": "Tecnologia",
+    "cargo": "CTO",
+    "escritorio": "São Paulo"
+  },
+  {
+    "_id": {
+      "$oid": "69f8b8a771dfdd5a2058ec6e"
+    },
+    "nome": "Thiago",
+    "sobrenome": "Ferreira",
+    "data_nascimento": "1983-09-30",
+    "data_contratacao": "2017-05-12",
+    "salario": 14000,
+    "departamento": "Tecnologia",
+    "cargo": "Arquiteto de Software",
+    "escritorio": "São Paulo"
+  },
+  {
+    "_id": {
+      "$oid": "69f8b8a771dfdd5a2058ec70"
+    },
+    "nome": "Eduardo",
+    "sobrenome": "Souza",
+    "data_nascimento": "1984-06-25",
+    "data_contratacao": "2018-07-09",
+    "salario": 11000,
+    "departamento": "Tecnologia",
+    "cargo": "Tech Lead",
+    "escritorio": "São Paulo"
+  },
+  {
+    "_id": {
+      "$oid": "69f8b8a771dfdd5a2058ec72"
+    },
+    "nome": "Lucas",
+    "sobrenome": "Martins",
+    "data_nascimento": "1988-08-17",
+    "data_contratacao": "2019-06-01",
+    "salario": 9500,
+    "departamento": "Tecnologia",
+    "cargo": "Desenvolvedor Sênior",
+    "escritorio": "São Paulo"
+  },
+  {
+    "_id": {
+      "$oid": "69f8b8a771dfdd5a2058ec75"
+    },
+    "nome": "Ana",
+    "sobrenome": "Silva",
+    "data_nascimento": "1990-01-01",
+    "data_contratacao": "2020-01-01",
+    "salario": 5000,
+    "departamento": "Tecnologia",
+    "cargo": "Desenvolvedora",
+    "escritorio": "São Paulo"
+  },
+  {
+    "_id": {
+      "$oid": "69f8b8a771dfdd5a2058ec79"
+    },
+    "nome": "Bruno",
+    "sobrenome": "Araújo",
+    "data_nascimento": "1994-04-06",
+    "data_contratacao": "2021-04-26",
+    "salario": 6500,
+    "departamento": "Tecnologia",
+    "cargo": "Desenvolvedor Pleno",
+    "escritorio": "São Paulo"
+  },
+  {
+    "_id": {
+      "$oid": "69f8b8a771dfdd5a2058ec7b"
+    },
+    "nome": "Gustavo",
+    "sobrenome": "Ribeiro",
+    "data_nascimento": "1997-01-30",
+    "data_contratacao": "2022-03-14",
+    "salario": 5500,
+    "departamento": "Tecnologia",
+    "cargo": "Desenvolvedor Júnior",
+    "escritorio": "São Paulo"
+  },
+  {
+    "_id": {
+      "$oid": "69f8b8a771dfdd5a2058ec7d"
+    },
+    "nome": "Matheus",
+    "sobrenome": "Santos",
+    "data_nascimento": "2000-09-04",
+    "data_contratacao": "2023-02-06",
+    "salario": 3500,
+    "departamento": "Tecnologia",
+    "cargo": "Estagiário de Desenvolvimento",
+    "escritorio": "São Paulo"
+  }
+]
