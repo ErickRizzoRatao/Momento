@@ -676,7 +676,7 @@ db.departamentos.insertOne({ nome: "Operacoes LATAM", escritorio: "Momento Brasi
 R:
 ~~~bson
 db.funcionarios.insertMany([
-  { nome: "Daniel", sobrenome: "Clovis", data_nascimento: "2007-12-20", data_contratacao: "2026-06-07", salario: 8000, departamento: "Operacoes LATAM", cargo: "Analista de Operacoes LATAM", escritorio: "Momento Brasil" },
+  { nome: "Erick", sobrenome: "Rizzo", data_nascimento: "2007-12-20", data_contratacao: "2026-06-07", salario: 8000, departamento: "Operacoes LATAM", cargo: "Analista de Operacoes LATAM", escritorio: "Momento Brasil" },
   { nome: "Marina", sobrenome: "Almeida", data_nascimento: "2001-03-12", data_contratacao: "2026-06-07", salario: 6200, departamento: "Operacoes LATAM", cargo: "Assistente de Operacoes", escritorio: "Momento Brasil" },
   { nome: "Joao", sobrenome: "Pereira", data_nascimento: "2000-08-19", data_contratacao: "2026-06-07", salario: 6200, departamento: "Operacoes LATAM", cargo: "Assistente de Operacoes", escritorio: "Momento Brasil" },
   { nome: "Beatriz", sobrenome: "Santos", data_nascimento: "2002-11-04", data_contratacao: "2026-06-07", salario: 6500, departamento: "Operacoes LATAM", cargo: "Analista de Relacionamento", escritorio: "Momento Brasil" },
